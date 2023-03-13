@@ -1,6 +1,11 @@
 # generated certificates
 **/certificates/*.jks
 
+# cenm-tool
+cenm-tool/cenm
+cenm-tool/cenm.cmd
+cenm-tool/*.conf
+
 # jar files
 **/*.jar
 
