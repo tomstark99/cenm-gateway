@@ -2,9 +2,7 @@
 **/certificates/*.jks
 
 # cenm-tool
-cenm-tool/cenm
-cenm-tool/cenm.cmd
-cenm-tool/*.conf
+cenm-tool/*
 
 # jar files
 **/*.jar
